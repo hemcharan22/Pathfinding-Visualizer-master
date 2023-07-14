@@ -9,7 +9,7 @@ Technologies used : javaScript , Express , Nelify.
 
 ### starting Stage:
 
-![Screenshot from 2023-07-14 22-03-45](https://github.com/hemcharan22/Pathfinding-Visualizer-v2/assets/77770865/24ce0cd3-88d2-4057-8a7b-4f993d72f779)
+![image](https://github.com/hemcharan22/Pathfinding-Visualizer-v2/assets/77770865/08a4e007-d241-4cd6-a48c-2096ab93e95e)
 
 ### After setting the maze:
 
@@ -22,3 +22,6 @@ Technologies used : javaScript , Express , Nelify.
 ### final results:
 
 ![image](https://github.com/hemcharan22/Pathfinding-Visualizer-v2/assets/77770865/ba538f7a-81f7-4f5b-8ea7-f45b30c7678d)
+
+
+
